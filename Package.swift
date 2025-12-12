@@ -2,9 +2,9 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 import PackageDescription
 
-let version = "3.8.0"
+let version = "3.8.0-1"
 let moduleName = "archive"
-let checksum = "8bffad17ce109533b5ef1f034ba2c528ed7276527442d3151c8c39597ec20aef"
+let checksum = "a6151e6b1699ebcf9deab216fa6789fad8cf8783d044d8990be5cb78ff7e2a6d"
 
 let package = Package(
     name: moduleName,
